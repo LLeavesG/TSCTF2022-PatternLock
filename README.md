@@ -11,3 +11,6 @@ https://github.com/ele7enxxh/Android-Inline-Hook
 
 函数代码抽空解决方案
 https://github.com/luoyesiqiu/dpt-shell
+
+PatternLockView
+https://github.com/aritraroy/PatternLockView
